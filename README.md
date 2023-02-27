@@ -1,5 +1,5 @@
 
-<img src="https://unsplash.com/photos/SyYmXSDnJ54" style=" width:600px ; height:300px "  >
+<img src="https://unsplash.com/photos/SyYmXSDnJ54" style=" width:600px ; height:300px ; align=center">
 
 ## About me
 
