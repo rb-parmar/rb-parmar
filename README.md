@@ -1,7 +1,5 @@
 
-<div align="center">
-  <img src="https://unsplash.com/photos/LqKhnDzSF-8" width="600" height="300"/>
-</div>
+![Employee data](http://imageurl "Employee Data title")
 
 ## About me
 
