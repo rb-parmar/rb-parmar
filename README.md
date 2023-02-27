@@ -1,5 +1,7 @@
 
-![Employee data](http://imageurl "Employee Data title")
+<div style="width:60px ; height:60px">
+![Employee data](/repository/assets/employee.png?raw=true "Employee Data title")
+<div>
 
 ## About me
 
