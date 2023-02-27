@@ -6,3 +6,7 @@ I am currently learning fornt-end developement and how to develop and build webs
 I also like drawing and playing football and cricket.
 
 I currently know how to use CSS and Javascript and I am looking forward to learn other programming languages and build my programming skills. 
+
+##
+
+### My skills
