@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://unsplash.com/photos/LqKhnDzSF-8.png" width="600" height="300"/>
+  <img src="https://unsplash.com/photos/LqKhnDzSF-8" width="600" height="300"/>
 </div>
 
 ## About me
