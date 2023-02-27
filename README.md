@@ -10,3 +10,5 @@ I currently know how to use CSS and Javascript and I am looking forward to learn
 ##
 
 ### My skills
+
+![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=51be8d)
