@@ -1,3 +1,6 @@
+
+![Coding](https://unsplash.com/photos/g5jpH62pwes)
+
 ## About me
 
 Hello, I am Rushit Parmar, a software developer student at MITT, Winnipeg, MB, Canada.
