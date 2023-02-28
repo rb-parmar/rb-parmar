@@ -24,4 +24,4 @@ I currently know how to use CSS and Javascript and I am looking forward to learn
 
 ### My stats
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rb-parmar&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rb-parmar&layout=compact&theme=vision-friendly-dark)
+![rb-parmar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rb-parmar&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
