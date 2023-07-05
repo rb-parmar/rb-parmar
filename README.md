@@ -20,6 +20,7 @@ I currently know how to use CSS and Javascript and I am looking forward to learn
 ![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=00aaff)
 ![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=00aaff)
 ![](https://img.shields.io/badge/code-react-informational?style=for-the-badge&logo=react&logoColor=white&color=00aaff)
+![](https://img.shields.io/badge/code-csharp-informational?style=for-the-badge&logo=csharp&logoColor=white&color=00aaff)
 
 ##
 
