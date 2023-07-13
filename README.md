@@ -7,10 +7,13 @@
 
 Hello, I am Rushit Parmar, a software developer student at MITT, Winnipeg, MB, Canada.
 
-I am currently learning fornt-end developement and how to develop and build websites. 
-I also like drawing and playing football and cricket.
+I have learnt fron-end developement and familiarized my self very well with the languages, frameworks and various libraries.
+I am currently learning back-end developement and specifically MySQL server.
+I am open for collaborations and connections.
 
-I currently know how to use CSS and Javascript and I am looking forward to learn other programming languages and build my programming skills. 
+I also like playing football, badminton and cricket alongside drawing.
+
+I am looking forward to learn other programming languages and build my programming skills. 
 
 ##
 
