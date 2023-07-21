@@ -19,12 +19,29 @@ I am looking forward to learn other programming languages and build my programmi
 
 ### My skills
 
-![](https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=00aaff)
-![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=00aaff)
+#### Languages
+![](https://img.shields.io/badge/web-html5-informational?style=for-the-badge&logo=html5&logoColor=white&color=00aaff)/![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=00aaff)
 ![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=00aaff)
-![](https://img.shields.io/badge/code-node.js-informational?style=for-the-badge&logo=node.js&logoColor=white&color=00aaff)
-![](https://img.shields.io/badge/code-react-informational?style=for-the-badge&logo=react&logoColor=white&color=00aaff)
 ![](https://img.shields.io/badge/code-csharp-informational?style=for-the-badge&logo=csharp&logoColor=white&color=00aaff)
+![](https://img.shields.io/badge/code-mysql-informational?style=for-the-badge&logo=mysql&logoColor=white&color=00aaff)
+![](https://img.shields.io/badge/code-markdown-informational?style=for-the-badge&logo=markdown&logoColor=white&color=00aaff)
+![](https://img.shields.io/badge/code-bash-informational?style=for-the-badge&logo=bash&logoColor=white&color=00aaff)
+![](https://img.shields.io/badge/code-xml-informational?style=for-the-badge&logo=xml&logoColor=white&color=00aaff)
+
+
+#### Frameworks
+![](https://img.shields.io/badge/code-react-informational?style=for-the-badge&logo=react&logoColor=white&color=00aaff)
+![](https://img.shields.io/badge/code-node.js-informational?style=for-the-badge&logo=node.js&logoColor=white&color=00aaff)
+![](https://img.shields.io/badge/code-.net-core-informational?style=for-the-badge&logo=.net-core&logoColor=white&color=00aaff)
+
+
+#### Tools
+![](https://img.shields.io/badge/code-visual-studio-informational?style=for-the-badge&logo=visual-studio&logoColor=white&color=00aaff)
+![](https://img.shields.io/badge/code-visual-studio-code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=00aaff)
+
+
+
+
 
 ##
 
