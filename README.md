@@ -33,7 +33,7 @@ I am looking forward to learn other programming languages and build my programmi
 #### Frameworks
 ![](https://img.shields.io/badge/code-react-informational?style=for-the-badge&logo=react&logoColor=white&color=00aaff)
 ![](https://img.shields.io/badge/code-node.js-informational?style=for-the-badge&logo=node.js&logoColor=white&color=00aaff)
-![](https://img.shields.io/badge/code-net-core-informational?style=for-the-badge&logo=net-core&logoColor=white&color=00aaff)
+![](https://img.shields.io/badge/code-netcore-informational?style=for-the-badge&logo=netcore&logoColor=white&color=00aaff)
 
 
 #### Tools
