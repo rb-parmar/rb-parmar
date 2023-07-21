@@ -26,14 +26,12 @@ I am looking forward to learn other programming languages and build my programmi
 ![](https://img.shields.io/badge/code-csharp-informational?style=for-the-badge&logo=csharp&logoColor=white&color=00aaff)
 ![](https://img.shields.io/badge/code-mysql-informational?style=for-the-badge&logo=mysql&logoColor=white&color=00aaff)
 ![](https://img.shields.io/badge/code-markdown-informational?style=for-the-badge&logo=markdown&logoColor=white&color=00aaff)
-![](https://img.shields.io/badge/code-bash-informational?style=for-the-badge&logo=bash&logoColor=white&color=00aaff)
-![](https://img.shields.io/badge/code-xml-informational?style=for-the-badge&logo=xml&logoColor=white&color=00aaff)
+![](https://img.shields.io/badge/code-gitbash-informational?style=for-the-badge&logo=gitbash&logoColor=white&color=00aaff)
 
 
 #### Frameworks
 ![](https://img.shields.io/badge/code-react-informational?style=for-the-badge&logo=react&logoColor=white&color=00aaff)
 ![](https://img.shields.io/badge/code-node.js-informational?style=for-the-badge&logo=node.js&logoColor=white&color=00aaff)
-![](https://img.shields.io/badge/code-netcore-informational?style=for-the-badge&logo=netcore&logoColor=white&color=00aaff)
 
 
 #### Tools
