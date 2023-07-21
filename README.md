@@ -22,7 +22,7 @@ I am looking forward to learn other programming languages and build my programmi
 ![](https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=00aaff)
 ![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=00aaff)
 ![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=00aaff)
-![](https://img.shields.io/badge/code-node-informational?style=for-the-badge&logo=node&logoColor=white&color=00aaff)
+![](https://img.shields.io/badge/code-node.js-informational?style=for-the-badge&logo=node.js&logoColor=white&color=00aaff)
 ![](https://img.shields.io/badge/code-react-informational?style=for-the-badge&logo=react&logoColor=white&color=00aaff)
 ![](https://img.shields.io/badge/code-csharp-informational?style=for-the-badge&logo=csharp&logoColor=white&color=00aaff)
 
