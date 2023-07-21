@@ -20,7 +20,8 @@ I am looking forward to learn other programming languages and build my programmi
 ### My skills
 
 #### Languages
-![](https://img.shields.io/badge/web-html5-informational?style=for-the-badge&logo=html5&logoColor=white&color=00aaff)/![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=00aaff)
+![](https://img.shields.io/badge/web-html5-informational?style=for-the-badge&logo=html5&logoColor=white&color=00aaff)
+![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=00aaff)
 ![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=00aaff)
 ![](https://img.shields.io/badge/code-csharp-informational?style=for-the-badge&logo=csharp&logoColor=white&color=00aaff)
 ![](https://img.shields.io/badge/code-mysql-informational?style=for-the-badge&logo=mysql&logoColor=white&color=00aaff)
@@ -32,12 +33,12 @@ I am looking forward to learn other programming languages and build my programmi
 #### Frameworks
 ![](https://img.shields.io/badge/code-react-informational?style=for-the-badge&logo=react&logoColor=white&color=00aaff)
 ![](https://img.shields.io/badge/code-node.js-informational?style=for-the-badge&logo=node.js&logoColor=white&color=00aaff)
-![](https://img.shields.io/badge/code-.net-core-informational?style=for-the-badge&logo=.net-core&logoColor=white&color=00aaff)
+![](https://img.shields.io/badge/code-net-core-informational?style=for-the-badge&logo=net-core&logoColor=white&color=00aaff)
 
 
 #### Tools
-![](https://img.shields.io/badge/code-visual-studio-informational?style=for-the-badge&logo=visual-studio&logoColor=white&color=00aaff)
-![](https://img.shields.io/badge/code-visual-studio-code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=00aaff)
+![](https://img.shields.io/badge/code-visualstudio-informational?style=for-the-badge&logo=visualstudio&logoColor=white&color=00aaff)
+![](https://img.shields.io/badge/code-visualstudiocode-informational?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=00aaff)
 
 
 
