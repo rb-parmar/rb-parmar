@@ -52,5 +52,5 @@ I am looking forward to learn other programming languages and build my programmi
 ##
 
 ### My stats
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/rb-parmar/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/rb-parmar/github-stats/master/generated/languages.svg#gh-dark-mode-only)
