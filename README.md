@@ -27,30 +27,30 @@ I am looking forward to learn other programming languages and build my programmi
 ![](https://img.shields.io/badge/code-markdown-informational?style=for-the-badge&logo=markdown&logoColor=white&color=00aaff)
 ![](https://img.shields.io/badge/code-gitbash-informational?style=for-the-badge&logo=gitbash&logoColor=white&color=00aaff)
 
-### Frontend Libraries and Tools
+### Frameworks, Platforms & Libraries
 ![](https://img.shields.io/badge/code-react-informational?style=for-the-badge&logo=react&logoColor=white&color=00aaff)
-
-### Web Frameworks
-![](https://img.shields.io/badge/code-ASp.NET_Core-informational?style=for-the-badge&logo=ASP.NET_Core&logoColor=white&color=00aaff)
-
-### Backend Frameworks
-![](https://img.shields.io/badge/code-node.js-informational?style=for-the-badge&logo=node.js&logoColor=white&color=00aaff)
-![](https://img.shields.io/badge/code-ASP.NET-informational?style=for-the-badge&logo=ASP.NET&logoColor=white&color=00aaff)
+![](https://img.shields.io/badge/code-react_router-informational?style=for-the-badge&logo=reactrouter&logoColor=white&color=00aaff)
+![](https://img.shields.io/badge/FW-ASp.NET_Core-informational?style=for-the-badge&logo=ASP.NET_Core&logoColor=white&color=00aaff)
+![](https://img.shields.io/badge/FW-node.js-informational?style=for-the-badge&logo=node.js&logoColor=white&color=00aaff)
+![](https://img.shields.io/badge/FW-ASP.NET-informational?style=for-the-badge&logo=ASP.NET&logoColor=white&color=00aaff)
+![](https://img.shields.io/badge/PKG-npm-informational?style=for-the-badge&logo=npm&logoColor=white&color=00aaff)
+![](https://img.shields.io/badge/PKG-XAMPP-informational?style=for-the-badge&logo=xampp&logoColor=white&color=00aaff)
 
 ### Databases
-![](https://img.shields.io/badge/DB-mysql-informational?style=for-the-badge&logo=mysql&logoColor=white&color=00aaff)
+![](https://img.shields.io/badge/DB-MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=00aaff)
+![](https://img.shields.io/badge/DB-Microsoft_SQL_Server-informational?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&color=00aaff)
 
 ### API Development
 ![](https://img.shields.io/badge/API-Postman-informational?style=for-the-badge&logo=postman&logoColor=white&color=00aaff)
 
-### Packages
-![](https://img.shields.io/badge/PKG-npm-informational?style=for-the-badge&logo=npm&logoColor=white&color=00aaff)
-![](https://img.shields.io/badge/PKG-XAMPP-informational?style=for-the-badge&logo=xampp&logoColor=white&color=00aaff)
+### Servers
+![](https://img.shields.io/badge/Server-Apache-informational?style=for-the-badge&logo=apache&logoColor=white&color=00aaff)
 
+### Hosting
+![](https://img.shields.io/badge/Hosting-Azure-informational?style=for-the-badge&logo=azure&logoColor=white&color=00aaff)
 
 ##
 
 ### My stats
-![rb-parmar's Stats](https://github-readme-stats.vercel.app/api?username=rb-parmar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![rb-parmar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rb-parmar&theme=vue-dark&hide_border=true)
-![rb-parmar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rb-parmar&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
