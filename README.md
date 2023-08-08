@@ -19,25 +19,45 @@ I am looking forward to learn other programming languages and build my programmi
 
 ### My skills
 
+
+
 #### Languages
 ![](https://img.shields.io/badge/web-html5-informational?style=for-the-badge&logo=html5&logoColor=white&color=00aaff)
 ![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=00aaff)
 ![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=00aaff)
 ![](https://img.shields.io/badge/code-csharp-informational?style=for-the-badge&logo=csharp&logoColor=white&color=00aaff)
-![](https://img.shields.io/badge/code-mysql-informational?style=for-the-badge&logo=mysql&logoColor=white&color=00aaff)
 ![](https://img.shields.io/badge/code-markdown-informational?style=for-the-badge&logo=markdown&logoColor=white&color=00aaff)
 ![](https://img.shields.io/badge/code-gitbash-informational?style=for-the-badge&logo=gitbash&logoColor=white&color=00aaff)
 
-
-#### Frameworks
+### Frontend Libraries and Tools
 ![](https://img.shields.io/badge/code-react-informational?style=for-the-badge&logo=react&logoColor=white&color=00aaff)
+
+### Web Frameworks
+![](https://img.shields.io/badge/code-ASp.NET_Core-informational?style=for-the-badge&logo=react&logoColor=white&color=00aaff)
+
+
+### Backend Frameworks
 ![](https://img.shields.io/badge/code-node.js-informational?style=for-the-badge&logo=node.js&logoColor=white&color=00aaff)
+![](https://img.shields.io/badge/code-ASP.NET-informational?style=for-the-badge&logo=node.js&logoColor=white&color=00aaff)
 
 
-#### Tools
-![](https://img.shields.io/badge/code-visualstudio-informational?style=for-the-badge&logo=visualstudio&logoColor=white&color=00aaff)
-![](https://img.shields.io/badge/code-visualstudiocode-informational?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=00aaff)
+### Databases
+![](https://img.shields.io/badge/DB-mysql-informational?style=for-the-badge&logo=mysql&logoColor=white&color=00aaff)
 
+## Version Control and Collaboration
+
+## API Development
+
+
+
+## Programming Languages
+[![Python](https://img.shields.io/badge/-Python-blue)]()
+[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)]()
+[![Java](https://img.shields.io/badge/-Java-orange)]()
+[![C++](https://img.shields.io/badge/-C%2B%2B-green)]()
+[![Ruby](https://img.shields.io/badge/-Ruby-red)]()
+[![C#](https://img.shields.io/badge/-C%23-purple)]()
+[![PHP](https://img.shields.io/badge/-PHP-777BB4)]()
 
 
 
