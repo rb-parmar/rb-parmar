@@ -15,8 +15,6 @@ I also like playing football, badminton and cricket alongside drawing.
 
 I am looking forward to learn other programming languages and build my programming skills. 
 
-##
-
 ## My skills
 
 ### Languages
@@ -49,8 +47,6 @@ I am looking forward to learn other programming languages and build my programmi
 ### Hosting
 ![](https://img.shields.io/badge/Hosting-Azure-informational?style=for-the-badge&logo=azure&logoColor=white&color=00aaff)
 
-##
-
-### My stats
+## My stats
 [![rb-parmar's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rb-parmar&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 [![rb-parmar's stats](https://awesome-github-stats.azurewebsites.net/user-stats/rb-parmar?cardType=level-alternate&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
