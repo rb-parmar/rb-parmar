@@ -49,4 +49,4 @@ I am looking forward to learn other programming languages and build my programmi
 
 ## My stats
 [![rb-parmar's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rb-parmar&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-[![rb-parmar's stats](https://awesome-github-stats.azurewebsites.net/user-stats/rb-parmar?cardType=level-alternate&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
+[![rb-parmar's's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rb-parmar&theme=react)](https://github.com/rb-parmar/github-readme-activity-graph)
