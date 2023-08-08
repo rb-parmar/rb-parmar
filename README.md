@@ -17,9 +17,9 @@ I am looking forward to learn other programming languages and build my programmi
 
 ##
 
-### My skills
+## My skills
 
-#### Languages
+### Languages
 ![](https://img.shields.io/badge/web-html5-informational?style=for-the-badge&logo=html5&logoColor=white&color=00aaff)
 ![](https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=00aaff)
 ![](https://img.shields.io/badge/code-javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=00aaff)
